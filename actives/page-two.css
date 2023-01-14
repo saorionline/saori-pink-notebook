@@ -26,3 +26,12 @@
 a {
   text-decoration: none;
 }
+h2.announce-colection {
+  font-weight: 400;
+  margin: 62px;
+}
+h1.announce-colection-2 {
+  font-weight: 400;
+  font-size: 16px;
+  margin: 22px;
+}
