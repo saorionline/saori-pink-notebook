@@ -28,10 +28,11 @@ a {
 }
 h2.announce-colection {
   font-weight: 400;
-  margin: 62px;
+  margin-top: 62px;
+  font-size: 13px;
 }
 h1.announce-colection-2 {
   font-weight: 400;
-  font-size: 16px;
-  margin: 22px;
+  font-size: 18px;
+  margin-bottom: 22px;
 }
